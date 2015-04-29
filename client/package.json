@@ -1,0 +1,11 @@
+{
+  "name": "hex-mmo",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}

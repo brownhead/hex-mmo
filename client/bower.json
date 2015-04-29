@@ -1,0 +1,8 @@
+{
+  "name": "hex-mmo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
